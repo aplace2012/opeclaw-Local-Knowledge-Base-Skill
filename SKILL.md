@@ -1,6 +1,6 @@
 ---
 name: local-knowledge-base
-description: A local knowledge base Q&A system. Supports extracting knowledge from various documents and building knowledge graphs with hybrid (graph+LLM) mode. Triggered by: reading local files, building knowledge base, Q&A, knowledge base Q&A, local document Q&A, importing documents.
+description: "A local knowledge base Q&A system. Supports extracting knowledge from various documents and building knowledge graphs with hybrid (graph+LLM) mode. Triggered by: reading local files, building knowledge base, Q&A, knowledge base Q&A, local document Q&A, importing documents."
 metadata.openclaw: '{"emoji": "📚"}'
 ---
 
